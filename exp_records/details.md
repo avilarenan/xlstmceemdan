@@ -1,5 +1,5 @@
 # Experiments 
-## 17/05/2020
+## 28/05/2020
 
 - Experimented models:
 
@@ -7,5 +7,5 @@
 | ------------- |:-------------:|:-----:|:-----:|
 | CEEMDAN-LSTM  | No | ReLu | All |
 | XCEEMDAN-LSTM | Yes | Leaky ReLu | All |
-| CEEMDAN-LSTM-SPLINE | No | ReLu | IMF1, IMF2, IMF3 |
-| XCEEMDAN-LSTM-SPLINE | Yes | Leaky ReLu | IMF1, IMF2, IMF3 |
+| CEEMDAN-LSTM-SPLINE | No | ReLu | IMF1, IMF2 |
+| XCEEMDAN-LSTM-SPLINE | Yes | Leaky ReLu | IMF1, IMF2 |
