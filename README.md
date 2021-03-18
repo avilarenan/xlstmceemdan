@@ -61,3 +61,10 @@ de Luca Avila R., De Bona G. (2020) Financial Time Series Forecasting via CEEMDA
 Please, feel free to reach me at: <renan.avila@usp.br>!
 
 Or you can even send me a message at my linkedin <https://www.linkedin.com/in/delucarenan>.
+
+## Acknowledgement
+
+Thanks to Escola Politécnica da Univiersidade de São Paulo, and thanks to BTG Pactual for supporting the work.
+
+![Escola Politécnica](./doc_images/Logo-Escola-Politécnica-Minerva_Logo-Escola-Politécnica-Minerva-01-scaled.jpeg)
+![Escola Politécnica](./doc_images/1200px-Btg-logo-blue.svg.png)
