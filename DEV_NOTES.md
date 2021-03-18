@@ -21,3 +21,11 @@ This bug was already being tracked but thanks to **Le Li** to reaching me and te
 Obs.: all the .ipynb notebooks in *executed_notebooks* folders were not fixed, only the source notebooks from which the experiments are run using *run_batch_exps.py* were fixed.
 
 ---
+
+- 18/03/2021:
+
+**Docs**
+
+Added README.md for explicit steps to reproduce experiments.
+
+---
