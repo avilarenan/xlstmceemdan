@@ -68,5 +68,5 @@ Thanks to Escola Politécnica da Univiersidade de São Paulo, and thanks to BTG 
 
 <p float="left">
     <img src="https://github.com/avilarenan/xlstmceemdan/blob/master/doc_images/Logo-Escola-Polit%C3%A9cnica-Minerva_Logo-Escola-Polit%C3%A9cnica-Minerva-01-scaled.jpeg" width="110">
-    <img src="https://github.com/avilarenan/xlstmceemdan/blob/master/doc_images/1200px-Btg-logo-blue.svg.png" width="200">
+    <img src="https://github.com/avilarenan/xlstmceemdan/blob/master/doc_images/1200px-Btg-logo-blue.svg.png" width="208">
 </p>
