@@ -19,6 +19,8 @@ The article was published in Springer's [Lecture Notes in Computer Science](http
 
 4) Repeat steps 1 to 3 with different hyperparameters, for example changing the IMF number for threshold, changing data or even changing learning rate, noise scale and so on.
 
+> Warning: in order to create new batches it is recommended to manually change the destination folder at the end of each of the above cited files.
+
 ## Steps to reproduce Figure 6 (MAPE Vs IMF threshold)
 
 1) Set all your desired hyperparameters in file *xlstm_ceemdan_full_spline_imfs.ipynb* and run all its cells once.
