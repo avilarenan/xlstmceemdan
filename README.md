@@ -68,5 +68,7 @@ Or you can even send me a message at my linkedin <https://www.linkedin.com/in/de
 
 Thanks to Escola Politécnica da Univiersidade de São Paulo, and thanks to BTG Pactual for supporting the work.
 
-<img src="https://github.com/avilarenan/xlstmceemdan/blob/master/doc_images/Logo-Escola-Polit%C3%A9cnica-Minerva_Logo-Escola-Polit%C3%A9cnica-Minerva-01-scaled.jpeg" width="100">
-<img src="https://github.com/avilarenan/xlstmceemdan/blob/master/doc_images/1200px-Btg-logo-blue.svg.png" width="100">
+<p float="left">
+    <img src="https://github.com/avilarenan/xlstmceemdan/blob/master/doc_images/Logo-Escola-Polit%C3%A9cnica-Minerva_Logo-Escola-Polit%C3%A9cnica-Minerva-01-scaled.jpeg" width="100">
+    <img src="https://github.com/avilarenan/xlstmceemdan/blob/master/doc_images/1200px-Btg-logo-blue.svg.png" width="100">
+</p>
