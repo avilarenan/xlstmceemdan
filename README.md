@@ -44,11 +44,13 @@ imfs_to_predict_with_neural = [] # set to ['IMF1'] , ['IMF1', 'IMF2], ['IMF1','I
 
 ![Table 3 for a given threshold](./doc_images/table3_partial_imfthreshold.png =250x250)
 
-3) Reproduce steps to generate Table 2 with different IMF threshold number.
+<img src="https://github.com/avilarenan/xlstmceemdan/blob/master/doc_images/table3_partial_imfthreshold.png" width="100">
 
-4) Run avg_metrics again for the new batch and generate another table as in step 2.
+1) Reproduce steps to generate Table 2 with different IMF threshold number.
 
-5) Manually merge the two tables to compare relative improvements for each of the IMF threshold values as in the paper.
+2) Run avg_metrics again for the new batch and generate another table as in step 2.
+
+3) Manually merge the two tables to compare relative improvements for each of the IMF threshold values as in the paper.
 
 ## Citation
 
@@ -66,5 +68,5 @@ Or you can even send me a message at my linkedin <https://www.linkedin.com/in/de
 
 Thanks to Escola Politécnica da Univiersidade de São Paulo, and thanks to BTG Pactual for supporting the work.
 
-![Escola Politécnica](./doc_images/Logo-Escola-Politécnica-Minerva_Logo-Escola-Politécnica-Minerva-01-scaled.jpeg =250x250)
-![Escola Politécnica](./doc_images/1200px-Btg-logo-blue.svg.png =250x250)
+<img src="https://github.com/avilarenan/xlstmceemdan/blob/master/doc_images/Logo-Escola-Polit%C3%A9cnica-Minerva_Logo-Escola-Polit%C3%A9cnica-Minerva-01-scaled.jpeg" width="100">
+<img src="https://github.com/avilarenan/xlstmceemdan/blob/master/doc_images/1200px-Btg-logo-blue.svg.png" width="100">
