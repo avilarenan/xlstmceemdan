@@ -34,7 +34,21 @@ imfs_to_predict_with_neural = [] # set to ['IMF1'] , ['IMF1', 'IMF2], ['IMF1','I
 
 3) Run file *imf_threshold_metrics.ipynb*. The output will be a csv file in folder *imfs_exp_records*.
 
-> The graph will be generated in the *imf_threshold_metrics.ipynb* when ran.  
+> The graph will be generated in the *imf_threshold_metrics.ipynb* when ran.
+
+## Steps to reproduce Table 3 (Average relative improvement compared to vanilla CEEMDAN-LSTM)
+
+1) Reproduce steps to generate Table 2.
+
+2) In *avg_metrics.ipynb* last notebook cell a Table is generated for a given IMF threshold:
+
+![Table 3 for a given threshold](./doc_images/table3_partial_imfthreshold.png)
+
+3) Reproduce steps to generate Table 2 with different IMF threshold number.
+
+4) Run avg_metrics again for the new batch and generate another table as in step 2.
+
+5) Manually merge the two tables to compare relative improvements for each of the IMF threshold values as in the paper.
 
 ## Citation
 
