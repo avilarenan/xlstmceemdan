@@ -42,8 +42,6 @@ imfs_to_predict_with_neural = [] # set to ['IMF1'] , ['IMF1', 'IMF2], ['IMF1','I
 
 2) In *avg_metrics.ipynb* last notebook cell a Table is generated for a given IMF threshold:
 
-![Table 3 for a given threshold](./doc_images/table3_partial_imfthreshold.png =250x250)
-
 <img src="https://github.com/avilarenan/xlstmceemdan/blob/master/doc_images/table3_partial_imfthreshold.png" width="300">
 
 1) Reproduce steps to generate Table 2 with different IMF threshold number.
@@ -69,6 +67,6 @@ Or you can even send me a message at my linkedin <https://www.linkedin.com/in/de
 Thanks to Escola Politécnica da Univiersidade de São Paulo, and thanks to BTG Pactual for supporting the work.
 
 <p float="left">
-    <img src="https://github.com/avilarenan/xlstmceemdan/blob/master/doc_images/Logo-Escola-Polit%C3%A9cnica-Minerva_Logo-Escola-Polit%C3%A9cnica-Minerva-01-scaled.jpeg" width="100">
+    <img src="https://github.com/avilarenan/xlstmceemdan/blob/master/doc_images/Logo-Escola-Polit%C3%A9cnica-Minerva_Logo-Escola-Polit%C3%A9cnica-Minerva-01-scaled.jpeg" width="120">
     <img src="https://github.com/avilarenan/xlstmceemdan/blob/master/doc_images/1200px-Btg-logo-blue.svg.png" width="200">
 </p>
