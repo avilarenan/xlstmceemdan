@@ -64,7 +64,7 @@ Or you can even send me a message at my linkedin <https://www.linkedin.com/in/de
 
 ## Acknowledgement
 
-Thanks to Escola Politécnica da Univiersidade de São Paulo, and thanks to BTG Pactual for supporting the work.
+Thanks to Escola Politécnica da Universidade de São Paulo, and thanks to BTG Pactual for supporting the work.
 
 <p float="left">
     <img src="https://github.com/avilarenan/xlstmceemdan/blob/master/doc_images/Logo-Escola-Polit%C3%A9cnica-Minerva_Logo-Escola-Polit%C3%A9cnica-Minerva-01-scaled.jpeg" width="110">
